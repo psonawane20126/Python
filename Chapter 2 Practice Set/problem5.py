@@ -1,0 +1,6 @@
+# Write a python program to find an average of two numbers provided by the user
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print("Average of two numbers is:", (a + b) / 2)
